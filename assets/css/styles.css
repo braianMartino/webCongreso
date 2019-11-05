@@ -1,0 +1,83 @@
+body{
+	font-family: 'Handlee', cursive;
+	font-weight: 600;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+div .parrafo{
+	width: 60%;
+}
+
+footer {
+	text-align: center;
+	background-color: #707B7C;
+	margin-bottom: 1em;
+	border: solid 1px black;
+	height: 50px;
+}
+
+nav{
+	border: solid 1px black;
+}
+
+.footer{
+	margin-top: 14px;
+}
+
+
+header img{
+	width: 43px;
+	height: 43px;
+}
+
+header p{
+	float: right;
+	margin-top: 12px;
+	margin-left: 4px;
+}
+
+div img{
+	width: 300px;
+	height: 300px;
+	margin-right: -2em;
+}
+
+.container{
+	margin-left: -14px;
+}
+
+
+.texto{
+	width: 50%;
+}
+
+.tablaSP{
+	width: 45%;
+	float: right;
+	margin-top:-125px;
+
+}
+
+.tablaSA{
+	width: 45%;
+	float: right;
+	margin-top:-245px;
+}
+
+.tabla1{
+	width: 50%;
+	margin-top: 120px;
+}
+
+.tabla2{
+	width: 50%;
+	float: right;
+	margin-top: -584px;
+}
+
+.tabla2HP{
+	width: 50%;
+	float: right;
+	margin-top: -2247px;
+}
